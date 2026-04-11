@@ -16,6 +16,5 @@
     "@anthropic-ai/sdk": "^0.20.0",
     "@supabase/supabase-js": "^2.38.0",
     "html2pdf.js": "^0.10.1",
-    "crypto": "^1.0.3"
   }
 }
